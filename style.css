@@ -41,6 +41,7 @@ nav {
 .header-nav-app {
     width: 28px;
 	margin: auto 7px;
+    padding-top: 3px;
 	cursor: pointer;
 }
 
